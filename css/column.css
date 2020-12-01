@@ -1,0 +1,27 @@
+/**
+ * Column
+ * ----------------------------------------------------------------------------
+ */
+.column-COLUMN_NAME {
+
+}
+
+.column-called span.called {
+    background: #029e00;
+    color: #ffffff;
+    border-radius: 0px;
+    font: 500 11px/10px "Segoe UI";
+    letter-spacing: 1px;
+    padding: 2px 2px 2px 3px;
+    text-transform: uppercase;
+}
+
+.column-called span.call_back {
+    background: #f7db16;
+    color: #111111;
+    border-radius: 0px;
+    font: 500 11px/10px "Segoe UI";
+    letter-spacing: 1px;
+    padding: 2px 2px 2px 3px;
+    text-transform: uppercase;
+}
